@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktic_tac_toe"]=self["webpackChunktic_tac_toe"]||[]).push([[443],{7381:function(t,n,a){a.r(n),a.d(n,{default:function(){return l}});var c=a(3396);const e={class:"about"},u=(0,c._)("h1",null,"This is an about page",-1),r=[u];function s(t,n){return(0,c.wg)(),(0,c.iD)("div",e,r)}var i=a(89);const o={},f=(0,i.Z)(o,[["render",s]]);var l=f}}]);
+//# sourceMappingURL=about.39e91228.js.map
